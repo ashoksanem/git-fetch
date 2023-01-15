@@ -1,2 +1,3 @@
 created main file
 first line added in mian.txt @local main
+second line added in mian.txt @remote main
